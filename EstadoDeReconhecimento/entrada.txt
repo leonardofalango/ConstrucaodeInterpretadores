@@ -1,0 +1,6 @@
+5
+abbaba
+abababb
+bbabbaaab
+abbabb
+bbabbabb
